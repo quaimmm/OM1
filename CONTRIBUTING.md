@@ -85,3 +85,22 @@ If you have any questions or need help with the contribution process, feel free 
 *   Join our [developer telegram group](https://t.me/openminddev).
 
 Thank you for contributing to OM1!
+
+## Contributing via GitHub Web UI (No Terminal)
+
+If you prefer contributing without a local setup:
+
+1. **Fork** this repo (top-right “Fork”).
+2. In *your fork*, create or edit files:
+   - To **add a new file** (e.g., `SECURITY.md`): Click `Add file` → `Create new file`.
+   - To **edit an existing file** (e.g., `CONTRIBUTING.md` or `README.md`): Open the file → click the ✏️ **Edit** icon.
+3. Write your changes and commit:
+   - Use a clear commit message (e.g., `docs: add SECURITY policy`).
+   - Select **“Create a new branch for this commit and start a pull request”**.
+4. Click **“Propose changes”** → **“Create pull request”**.
+5. In the PR, include:
+   - What changed & why (problem → solution)
+   - Scope (files touched)
+   - How reviewers can verify (links, screenshots if needed)
+
+**Tip:** Link relevant open **Issues** or **Bounty** items when applicable to help reviewers prioritize. 
